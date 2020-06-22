@@ -1,13 +1,13 @@
-
 {
-  "image_name": "cyberdojofoundation/groovy_junit",
+  "image_name": "cyberdojofoundation/groovy_junit:6140ec1",
   "display_name": "Groovy, JUnit",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "HikerTest.groovy",
     "Hiker.groovy",
     "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".groovy" ],
+  "filename_extension": [
+    ".groovy"
+  ],
   "tab_size": 4
 }
