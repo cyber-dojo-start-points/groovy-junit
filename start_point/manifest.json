@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/groovy_junit:6140ec1",
-  "display_name": "Groovy, JUnit",
+  "image_name": "cyberdojofoundation/groovy_junit:7224257",
+  "display_name": "Groovy 4.0.9, JUnit 4",
   "visible_filenames": [
     "HikerTest.groovy",
     "Hiker.groovy",
@@ -9,5 +9,6 @@
   "filename_extension": [
     ".groovy"
   ],
+  "max_seconds": 10,
   "tab_size": 4
 }
