@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/groovy_junit:7224257",
-  "display_name": "Groovy 4.0.9, JUnit 4",
+  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:a0168a3",
+  "display_name": "Groovy 4.0.23, JUnit 4.13.2",
   "visible_filenames": [
     "HikerTest.groovy",
     "Hiker.groovy",
