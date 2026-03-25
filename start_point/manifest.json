@@ -1,11 +1,12 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:a0168a3",
-  "display_name": "Groovy 4.0.23, JUnit 4.13.2",
+  "display_name": "Groovy 5.0.0, JUnit 4.13.2",
+  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:2051310",
   "visible_filenames": [
     "HikerTest.groovy",
     "Hiker.groovy",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".groovy"
   ],
