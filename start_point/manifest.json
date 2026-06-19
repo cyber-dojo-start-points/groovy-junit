@@ -1,5 +1,13 @@
 {
   "display_name": "Groovy 5.0.0, JUnit 4.13.2",
+  "language": [
+    "Groovy",
+    "5.0.0"
+  ],
+  "test_framework": [
+    "JUnit",
+    "4.13.2"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:2051310",
   "visible_filenames": [
     "HikerTest.groovy",
