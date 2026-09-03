@@ -8,7 +8,7 @@
     "JUnit",
     "4.13.2"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:2051310",
+  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:dbb8e04",
   "visible_filenames": [
     "HikerTest.groovy",
     "Hiker.groovy",

@@ -5,6 +5,6 @@ class HikerTest {
     @Test
     void life_the_universe_and_everything() {
         def douglas = new Hiker()
-        assertTrue douglas.answer() == 42
+        assertEquals 42, douglas.answer()
     }
 }
