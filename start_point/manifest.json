@@ -1,14 +1,14 @@
 {
-  "display_name": "Groovy 5.0.0, JUnit 4.13.2",
+  "display_name": "Groovy 5.1, JUnit 4.13",
   "language": [
     "Groovy",
-    "5.0.0"
+    "5.1"
   ],
   "test_framework": [
     "JUnit",
-    "4.13.2"
+    "4.13"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:dbb8e04",
+  "image_name": "ghcr.io/cyber-dojo-languages/groovy_junit:fb191b8",
   "visible_filenames": [
     "HikerTest.groovy",
     "Hiker.groovy",
