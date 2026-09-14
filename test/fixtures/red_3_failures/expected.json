@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.AssertionError: expected:<42> but was:<54>$": 1,
+    "^java\\.lang\\.AssertionError: expected:<0> but was:<5>$": 1,
+    "^org\\.junit\\.ComparisonFailure: expected:<\\[Arthur Dent\\]> but was:<\\[Zaphod Beeblebrox\\]>$": 1,
+    "^There were 3 failures:$": 1,
+    "^Tests run: 3, +Failures: 3$": 1
+  }
+}

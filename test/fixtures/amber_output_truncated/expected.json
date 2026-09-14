@@ -1,0 +1,9 @@
+{
+  "matches": [ "^\\.debug: i is 0$", "^debug: i is 1$" ],
+  "match_counts": {
+    "^FAILURES!!!$": 0,
+    "^Tests run: ": 0,
+    "^OK \\(": 0
+  },
+  "truncated": true
+}

@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^groovy\\.lang\\.MissingMethodException: No signature of method: sixTimesSevn for class: Hiker is applicable for argument types: \\(\\) values: \\[\\]$"
+  ],
+  "match_counts": {
+    "^Possible solutions: sixTimesSeven\\(\\)$": 1,
+    "^Tests run: 1, +Failures: 1$": 1,
+    "Unexpected input": 0
+  }
+}

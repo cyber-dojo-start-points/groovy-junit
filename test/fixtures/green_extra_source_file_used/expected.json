@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 12,
+  "match_counts": {
+    "^\\.\\.$": 1,
+    "^OK \\(2 tests\\)$": 1,
+    "^FAILURES!!!$": 0
+  }
+}

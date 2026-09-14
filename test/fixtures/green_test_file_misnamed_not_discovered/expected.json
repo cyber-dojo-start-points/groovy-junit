@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 12,
+  "match_counts": {
+    "^\\.$": 1,
+    "^OK \\(1 test\\)$": 1,
+    "AnswerSize": 0,
+    "the_answer_is_nine_digits_long": 0
+  }
+}

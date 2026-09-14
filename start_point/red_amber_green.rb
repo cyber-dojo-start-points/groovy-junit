@@ -1,6 +1,10 @@
 
 lambda { |stdout,stderr,status|
   output = stdout + stderr
+  # JUnitCore says OK, and exits zero, for a run it was handed no test classes
+  # for, which is what a kata with no class named *Test* gives it. The count is
+  # what keeps that out of green: nothing ran, so nothing was proved.
+  return :amber if /^OK \(0 tests\)$/.match(output)
   return :green if status === 0
   # JUnit counts an exception as a failure, so its own counts cannot tell an
   # assertion that failed from code that broke on the way to one. What can is

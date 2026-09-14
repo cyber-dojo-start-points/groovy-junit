@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 12,
+  "match_counts": {
+    "^\\.$": 1,
+    "^OK \\(1 test\\)$": 1,
+    "MissingMethodException": 0,
+    "ansewr": 0
+  }
+}

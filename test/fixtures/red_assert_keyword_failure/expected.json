@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^assert douglas\\.answer\\(\\) == 42$",
+    "^ +\\| +54 +false$"
+  ],
+  "match_counts": {
+    "^Assertion failed: *$": 1,
+    "^1\\) life_the_universe_and_everything\\(HikerTest\\)$": 1,
+    "^Tests run: 1, +Failures: 1$": 1,
+    "AssertionError": 0,
+    "ComparisonFailure": 0
+  }
+}

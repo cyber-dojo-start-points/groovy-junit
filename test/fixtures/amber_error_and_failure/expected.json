@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.ArithmeticException: Division by zero$": 1,
+    "^java\\.lang\\.AssertionError: expected:<3> but was:<2>$": 1,
+    "^There were 2 failures:$": 1,
+    "^Tests run: 2, +Failures: 2$": 1
+  }
+}

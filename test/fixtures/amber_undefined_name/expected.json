@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^groovy\\.lang\\.MissingMethodException: No signature of method: ansewr for class: Hiker is applicable for argument types: \\(\\) values: \\[\\]$",
+    "^Possible solutions: answer\\(\\)"
+  ],
+  "match_counts": {
+    "^Tests run: 1, +Failures: 1$": 1,
+    "Unexpected input": 0
+  }
+}
