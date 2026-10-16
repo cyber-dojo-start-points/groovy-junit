@@ -1,5 +1,5 @@
 {
-  "matches": [ "^\\./HikerTest\\.groovy: [0-9]+: Unexpected input: " ],
+  "matches": [ "^\\./HikerTest\\.groovy: [0-9]+:" ],
   "match_counts": {
     "^org\\.codehaus\\.groovy\\.control\\.MultipleCompilationErrorsException: startup failed:$": 1,
     "^1 error$": 1,
